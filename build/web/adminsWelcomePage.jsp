@@ -13,7 +13,9 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <title>Hostage</title>
+        <link rel="shortcut icon" sizes="192x192" type="logo/png"
+        href="./Images/Hostage.png">
+        <title>Hostage Admin</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
@@ -122,7 +124,7 @@ footer{
                
                </div>
                 <div class="col f"> 
-                    <a href="./index.jsp" style="text-decoration:none;">< back</a>
+                   
                   <div class="media">
                      
                     <img  src="./Images/Logo.png" class="mr-3" alt="logo" width="172" height="186"/>
@@ -137,13 +139,14 @@ footer{
                                Handle Hostage` & Users </b></h5>
                     </div>
                 </div>
-                <a href="./adminsWelcomePage.jsp">
+                <a href="./adminsLoginPage.jsp">
                     <button type="button" class="btn btn-primary">
                         Sign In
                     </button>
                 </a>
+                <a href="./index.jsp" style="font-size: 12px;color:#232323;margin-left: 210px;margin-top:20px;text-decoration:none;">Not an Admin?<b style="color: #2F9FF1"> Click here</b></a>
                
-                </div>
+                </div> 
             </div>
             
         </div>
