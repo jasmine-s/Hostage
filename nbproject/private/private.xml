@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/adminsLoginPage.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>108</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/css/index.css</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/validateUser.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/adminHomePage.jsp</file>
             <file>file:/D:/College_Main_Projects/Demos/Hostage/web/META-INF/context.xml</file>
             <file>file:/D:/College_Main_Projects/Demos/Hostage/web/adminsWelcomePage.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/adminsLoginPage.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/validateAdmin.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/usersSignUpPage.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/insertUser.jsp</file>
             <file>file:/D:/College_Main_Projects/Demos/Hostage/web/index.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/userHomePage.jsp</file>
+            <file>file:/D:/College_Main_Projects/Demos/Hostage/web/usersLoginPage.jsp</file>
             <file>file:/D:/College_Main_Projects/Demos/Hostage/web/usersWelcomePage.jsp</file>
         </group>
     </open-files>

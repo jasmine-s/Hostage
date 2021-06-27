@@ -14,6 +14,8 @@ and open the template in the editor.
 -->
 <html>
     <head>
+        <link rel="shortcut icon" sizes="192x192" type="logo/png"
+        href="./Images/Hostage.png">
         <title>Hostage User</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -123,7 +125,6 @@ footer{
                
                </div>
                 <div class="col f">
-                     <a href="./index.jsp" style="text-decoration:none;">< back</a>
                 <div class="media">
                   <img src="./Images/Logo.png" class="mr-3" alt="logo" width="172" height="186">
                
@@ -137,16 +138,18 @@ footer{
                                 Join Hostage` & Connect</b></h5>
                     </div>
                 </div>
-                <a href="./adminsWelcomePage.jsp">
+                <a href="./usersSignUpPage.jsp">
                     <button type="button" class="btn btn-primary">
                         Sign Up
                     </button>
                 </a>
-                <a href="./usersWelcomePage.jsp">
+                <a href="./usersLoginPage.jsp">
                     <button type="button" class="btn btn-light">
                       Sign In
                     </button>
                 </a>
+                     <a href="./index.jsp" style="font-size: 12px;color:#232323;margin-left: 210px;margin-top:20px;text-decoration:none;">Not an User?<b style="color: #2F9FF1"> Click here</b></a>
+               
                 </div>
             </div>
             
