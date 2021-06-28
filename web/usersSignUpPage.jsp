@@ -3,7 +3,7 @@
     Created on : 25 Jun, 2021, 12:45:43 PM
     Author     : Lenovo
 --%>
-
+<!--CODED By JASMINE-->
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
 
@@ -15,6 +15,7 @@
         <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
         <title>Hostage Users</title>
 </head>
+
 <body>
         <style>
           /* 
@@ -107,7 +108,7 @@ footer > p{
                                  </p>
                                   <br><br><br>
                         </div>  
-                           
+                           <!--CODED BY Sunaina-->
                 <form action="./insertUser.jsp" style="margin-top:-40px;">
                     <input placeholder="User Name" name="uname" type="text" class="form-control" id="exampleInput" required >
                      <br>
@@ -128,6 +129,7 @@ footer > p{
                           Already User?<b style="color: #2F9FF1">  Sign In Here</b></a>
                
                 </form>
+                           <!-- End-->
         </div>
     </div>
             <div class="col">

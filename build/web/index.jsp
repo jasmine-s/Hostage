@@ -1,7 +1,7 @@
 <%-- 
     Document   : index.jsp
     Created on : 24 Jun, 2021, 11:03:59 AM
-    Author     : Lenovo
+    Author     : Jasmine
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
