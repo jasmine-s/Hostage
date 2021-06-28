@@ -108,12 +108,13 @@ footer > p{
                                   <br><br><br>
                         </div>  
                            
-                <form action="insertUser.jsp" style="margin-top:-40px;">
+                <form action="./insertUser.jsp" style="margin-top:-40px;">
                     <input placeholder="User Name" name="uname" type="text" class="form-control" id="exampleInput" required >
                      <br>
                     <input placeholder="Name" name="name" type="text" class="form-control" id="exampleInput" required >
                      <br>
-                     
+                     <input placeholder="Gender" name="gender" type="text" class="form-control" id="exampleInput" required >
+                     <br>
                     <input placeholder="Email" name="email" type="email" class="form-control" id="exampleInput" aria-describedby="emailHelp">
                      <br>
                      <input placeholder="Mobile Number" name="num" type="text" class="form-control" id="exampleInput" >
@@ -122,7 +123,7 @@ footer > p{
                      <br>
                         <input placeholder="password" type="password"  name="psw" class="form-control" id="exampleInputPassword1">
                       
-                      <button type="submit" class="btn btn-primary">Submit</button>
+                       <input type="submit" value="Submit" class="btn btn-primary">
                       <br>  <a href="./usersLoginPage.jsp" style="font-size: 12px;color:#232323;margin-left: 180px;margin-top:20px;text-decoration:none;">
                           Already User?<b style="color: #2F9FF1">  Sign In Here</b></a>
                
